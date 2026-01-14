@@ -36,3 +36,13 @@ medical-rag-project/
 ├── requirements.txt        # Dependencies
 └── README.md
 ```
+## Clone the repository:
+```text
+[[git clone [https://github.com/your-username/medical-rag-qwen.git](https://github.com/your-username/medical-rag-qwen.git)
+cd medical-rag-qwen](https://github.com/HoangTM1324/MedicalRAG.git)](https://github.com/HoangTM1324/MedicalRAG.git)
+```
+
+## Install dependencies:
+```text
+pip install -r requirements.txt
+```
