@@ -7,6 +7,7 @@
 
 ## 📖 Introduction
 This project implements a **Retrieval-Augmented Generation (RAG)** system designed to answer medical questions using the **PubMedQA** dataset.
+<img width="1238" height="263" alt="Screenshot 2026-01-14 194111" src="https://github.com/user-attachments/assets/a9b0b102-4d14-4350-8e39-567aea957594" />
 
 It combines **Hybrid Retrieval** (Semantic + Keyword search) with a **Fine-tuned Qwen 2.5 (0.5B)** model to achieve high accuracy in medical reasoning. The system also employs an **Ensemble Soft Voting** strategy to further improve performance.
 
